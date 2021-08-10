@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Yuri 👋
 
-<!--
-**socherbyc/socherbyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socherbyc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=socherbyc&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+___
+
+### Connect with me:
+
+<br />
+
+[<img align="left" alt="socherbyc | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="socherbyc | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+
+[linkedin]: https://www.linkedin.com/in/socherbyc/
+[gitlab]: https://www.gitlab.com/socherbyc
