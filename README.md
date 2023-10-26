@@ -8,7 +8,7 @@ ___
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socherbyc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=socherbyc&layout=compact&langs_count=6&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=socherbyc&layout=compact&langs_count=8&theme=gruvbox&include_all_commits=true&exclude_repo=socherbyc.github.io&hide=html,blade,scss,css,vue))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=socherbyc&layout=compact&langs_count=8&theme=gruvbox&include_all_commits=true&exclude_repo=socherbyc.github.io&hide=html,blade,scss,css,vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
